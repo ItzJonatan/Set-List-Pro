@@ -1,0 +1,7 @@
+{
+  "name": "GigFlow - Musician's Gig Manager",
+  "description": "A comprehensive tool for musicians to manage setlists, lyrics, and recordings for gigs.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
